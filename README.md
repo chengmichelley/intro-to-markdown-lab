@@ -8,11 +8,11 @@ const functionName = (params) => {
   // code to be executed
 }
 
-__const__: const should be used whenever a function expression is assigned to a variable.
-__The function name__: The name you choose for the function.
-__Parameters__: Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
-**The arrow syntax**: Indicates that this will be a function.
-**The body**: The statements that make up the function itself. Surrounded by curly braces.
+* __const__: const should be used whenever a function expression is assigned to a variable.
+* __The function name__: The name you choose for the function.
+* __Parameters__: Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
+* **The arrow syntax**: Indicates that this will be a function.
+* **The body**: The statements that make up the function itself. Surrounded by curly braces.
 
 ___Example___:
 
